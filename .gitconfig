@@ -1,0 +1,27 @@
+[user]
+	name = Alex Weininger
+	email = alex.weininger@live.com
+[core]
+	editor = code-insiders --wait
+[rerere]
+	enabled = true
+
+[alias]
+	lg = log --all --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	rev = rev-list --count origin..HEAD
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = true
+	pager = true
+
+[diff]
+    tool = vscode
+[difftool "vscode"]
+    cmd = code-insiders --wait --diff $LOCAL $REMOTE
+
+[init]
+	defaultBranch = main
