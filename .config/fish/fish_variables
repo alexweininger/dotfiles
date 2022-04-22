@@ -12,7 +12,7 @@ SETUVAR _fisher_jorgebucaran_2F_fisher_files:/Users/alex/\x2econfig/fish/functio
 SETUVAR _fisher_jorgebucaran_2F_hydro_files:/Users/alex/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/Users/alex/\x2econfig/fish/functions/fish_prompt\x2efish\x1e/Users/alex/\x2econfig/fish/functions/fish_title\x2efish\x1e/Users/alex/\x2econfig/fish/conf\x2ed/hydro\x2efish
 SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:/Users/alex/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e/Users/alex/\x2econfig/fish/functions/_nvm_list\x2efish\x1e/Users/alex/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e/Users/alex/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e/Users/alex/\x2econfig/fish/functions/nvm\x2efish\x1e/Users/alex/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e/Users/alex/\x2econfig/fish/completions/nvm\x2efish
 SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejorgebucaran/nvm\x2efish\x1eedc/bass\x1ejorgebucaran/hydro\x1ejethrokuan/z
-SETUVAR _hydro_git_48002:partnerImageGeneration\x20\u21911\x20
+SETUVAR _hydro_git_28500:partnerImageGeneration\x20\u21911\x20
 SETUVAR _hydro_git_85636:partnerImageGeneration\x20\u21911\x20
 SETUVAR fish_color_autosuggestion:586e75
 SETUVAR fish_color_cancel:normal
